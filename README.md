@@ -1,2 +1,2 @@
 # Robo_Obst_Avoid
-This repository contains the python script for a simple obstacle avoidance project.
+This repository contains the python script for a simple obstacle avoidance project in ROS.
